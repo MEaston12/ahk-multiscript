@@ -1,0 +1,58 @@
+SECTION: Monitors=2,MonitorPrimary=1; Desktop size:0,-309,3000,1920
+Title="Microsoft Teams",x=1920,y=-309,width=1080,height=960
+Title="Layer",x=1921,y=673,width=1079,height=394
+Title="External References",x=-8,y=-8,width=1936,height=1056
+Title="Sheet Set Manager",x=-8,y=-8,width=1936,height=1056
+Title="Toolspace",x=25,y=190,width=22,height=0
+Title="Autodesk AutoCAD Civil 3D 2018",x=-8,y=-8,width=1936,height=1056
+Title="Word",x=-8,y=-8,width=1936,height=1056
+Title="Todoist",x=1921,y=652,width=1077,height=957
+Title="Outlook",x=1920,y=651,width=1080,height=960
+Title="8x8 - Virtual Office (Available)",x=-7,y=0,width=974,height=1047
+Title="Digital Delivery Skills List.xlsx - Saved",x=1920,y=-309,width=1080,height=960
+Title="Todoist: To-Do List and Task Manager",x=1913,y=651,width=1093,height=966
+Title="Microsoft Edge",x=165,y=38,width=1216,height=925
+Title="AutoCAD Notes - OneNote",x=960,y=0,width=960,height=1040
+Title="Microsoft Text Input Application",x=0,y=0,width=1920,height=1080
+
+SECTION: Monitors=2,MonitorPrimary=1; Desktop size:0,-309,3000,1920
+Title="Goliath - goliath.crsengineers.com:4010 - Remote Desktop Connection",x=0,y=-309,width=3000,height=1920
+Title="Todoist: To-Do List and Task Manager",x=1913,y=-309,width=1094,height=960
+Title="Startup",x=953,y=0,width=974,height=527
+Title="UDOT Project Database.xlsm - Saved",x=-8,y=-8,width=1936,height=1056
+Title="Microsoft Text Input Application",x=0,y=0,width=1920,height=1080
+Title="Inbox - malcolm.easton@crsengineers.com - Outlook",x=1920,y=644,width=1080,height=967
+Title="Microsoft Store",x=,y=,width=,height=
+Title="Microsoft Store",x=593,y=50,width=1216,height=941
+Title="Calculator",x=,y=,width=,height=
+Title="Calculator",x=1236,y=0,width=684,height=754
+Title="Settings",x=,y=,width=,height=
+Title="Settings",x=-8,y=-8,width=1936,height=1056
+Title="Microsoft Edge",x=,y=,width=,height=
+Title="Microsoft Edge",x=,y=,width=,height=
+Title="Microsoft Edge",x=165,y=38,width=1216,height=925
+Title="8x8 - Virtual Office (Available)",x=-7,y=0,width=974,height=1047
+Title="Chat | Microsoft Teams",x=1920,y=-309,width=1080,height=960
+Title="My LastPass Vault - Google Chrome",x=-8,y=-8,width=1936,height=1056
+
+SECTION: Monitors=2,MonitorPrimary=1; Desktop size:0,-309,3000,1920
+Title="Goliath - goliath.crsengineers.com:4010 - Remote Desktop Connection",x=0,y=-309,width=3000,height=1920
+Title="Todoist: To-Do List and Task Manager",x=1913,y=-309,width=1094,height=960
+Title="Inbox - malcolm.easton@crsengineers.com - Outlook",x=1920,y=644,width=1080,height=967
+Title="Microsoft Edge",x=0,y=0,width=1920,height=1080
+Title="Microsoft Edge",x=0,y=-309,width=3000,height=1920
+Title="Microsoft Edge",x=0,y=0,width=1920,height=1080
+Title="Microsoft Edge",x=165,y=38,width=1216,height=925
+Title="Microsoft Edge",x=165,y=38,width=1216,height=925
+Title="Chat | Microsoft Teams",x=1920,y=-309,width=1080,height=960
+Title="Ajera - Deltek Cloud ?- Microsoft Edge",x=165,y=38,width=1216,height=925
+Title="Settings",x=-8,y=-8,width=1936,height=1056
+Title="Calculator",x=1236,y=0,width=684,height=754
+Title="Microsoft Store",x=593,y=50,width=1216,height=941
+Title="Microsoft Text Input Application",x=0,y=0,width=1920,height=1080
+Title="UDOT Project Database.xlsm - Saved",x=-8,y=-8,width=1936,height=1056
+Title="Startup",x=953,y=0,width=974,height=527
+Title="Microsoft Edge",x=0,y=-309,width=3000,height=1920
+Title="My LastPass Vault - Google Chrome",x=-8,y=-8,width=1936,height=1056
+Title="8x8 - Virtual Office (Available)",x=-7,y=0,width=974,height=1047
+
